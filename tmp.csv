@@ -1,0 +1,347 @@
+prop_name,dev_stage,actv_status,country_name,current_stage,production_capacity,resv_metal_tonnage (mt),grade (%),production (mt),resource (milion mt),resource nickel contained (milion mt),resv_ore_tonnage (mt),late_exp_stage_lead_time,late_exp_stage_left_time,fea_stage_lead_time,fea_stage_left_time,dev_stage_lead_time,dev_stage_left_time,latitude,longitude
+Acoje,Operating,Active,Philippines,Operating-stage,435259.7344599805,7400.564243656243,1.08,855.7545454881948,68.1988,702450.0,1143801.078073379,,,,,,,15.71083,120.05778
+Adlay-Cagdianao-Tandawa,Operating,Active,Philippines,Operating-stage,6016589.984807279,277352.9644952077,1.32,32071.346488864394,17.373986,217175.0,35072627.68530374,,,,,,,9.36,125.84
+Agata,Operating,Active,Philippines,Operating-stage,4554213.451604041,138570.4464951009,1.5,16023.411939185575,26.036993,286407.0,15420156.49452269,,,,,,,9.28333,125.52944
+Aguablanca,Closed,Rehabilitation,Spain,Closed-stage,322492.7059069111,,0.6,,6.944,41374.0,4400000.0,,,,,,,37.96111,-6.18528
+Alexo-Dundonald,Reserves Development,Active,Canada,Operating-stage,,,1.03,,2.26,,,,,,,8.0,,48.65444,-80.80861
+Alpha,Reserves Development,Temporarily On Hold,Philippines,Operating-stage,,,1.32,,2.721,35364.0,,,,,,6.0,,9.20961,118.22994
+Ambatovy,Operating,Active,Madagascar,Operating-stage,6092542.65610173,904047.0694076978,0.88,33168.09910299304,254.6,2281100.0,124500000.0,,,,,,,-18.8604,48.30255
+Araguaia,Operating,Active,Brazil,Operating-stage,8378164.114056395,384735.9648045911,1.69,13212.61341230538,105.1,1669328.0,27290000.0,,,,,,,-6.96787,-49.3806
+Araguaia,Construction Planned,Active,Brazil,Operating-stage,3314773.7995461384,,1.13,20753.267591971664,73.0,876000.0,27290000.0,,,,,0.0,,-7.99542,-49.41298
+Avalon,Reserves Development,Active,Australia,Operating-stage,,,0.86,,169.8,1403000.0,,,,,,7.0,,-30.6904,121.822
+Avebury,Closed,Care And Maintenance,Australia,Closed-stage,799751.8900691253,,1.0,,18.2,171000.0,8700000.0,,,,,,,-41.91957,145.2567
+Bahubulu,Reserves Development,Active,Indonesia,Operating-stage,4547546.368020239,,1.74,28471.45910087287,27.0,,22848275.86206897,,,,,2.0,,-3.545,122.31
+Baiyin Huzuo,Reserves Development,Active,China,Operating-stage,124407.07822416919,,0.14,778.8927814848311,,,4345778.0,,,,,4.0,,44.49197,117.58842
+Barnes Hill,Prefeas/Scoping,Active,Australia,Feasibility-stage,,,0.58,,24.8,,,2.0,,11.0,3.0,,,-41.21855,146.774
+Barro Alto,Operating,Active,Brazil,Operating-stage,7843018.811370339,473710.44957448787,1.29,44457.80160972515,88.0,1118000.0,56600000.0,,,,,,,-15.108276,-49.040358
+Belininskoye,Feasibility,Inactive,Russia,Development-stage,,,1.0,,35.0,,,,,9.0,,8.0,1.0,53.13,85.91
+Berong,Operating,Active,Philippines,Operating-stage,3057803.6437097364,63987.092027660176,1.62,7399.063510891013,3.3802,52390.0,6593056.280067234,,,,,,,9.404,118.232
+Biankouma-Sipilou,Reserves Development,Active,Cote d'Ivoire,Operating-stage,,,1.1165,,230.0,3404000.0,,,,,,5.0,,7.86926,-7.91147
+Bird River,Reserves Development,Active,Canada,Operating-stage,,,2.66,,5.2,,,,,,,7.0,,50.48077,-95.50764
+Black Hill,Reserves Development,Inactive,Australia,Operating-stage,,,0.64,,30.0,,,,,,,5.0,,-30.92164,121.85301
+Black Swan,Feasibility Complete,Active,Australia,Development-stage,2054184.548879399,,5.2,,30.87,195030.0,130000.0,,,,,8.0,2.0,-30.39494,121.64818
+Blezard,Reserves Development,Inactive,Canada,Operating-stage,867252.7425432542,,1.41,5429.730450486789,,,3400000.0,,,,,1.0,,46.57851,-80.97357
+Bluebush Line,Reserves Development,Active,Australia,Operating-stage,677215.5617992352,,3.04,4239.938113843935,,,650000.0,,,,,8.0,,-31.607,121.792
+Boa,Reserves Development,Active,Philippines,Operating-stage,,,1.7,,1.76,,,,,,,4.0,,10.113,125.654
+Brooke's Point,Reserves Development,Inactive,Philippines,Development-stage,,,1.23,,34.8,,,,,,,9.0,2.0,8.96032,117.82398
+Bulanjao,Reserves Development,Active,Philippines,Development-stage,,,1.54,,10.225,,,,,,,7.0,0.0,8.56651,117.42216
+Buli,Satellite,Active,Indonesia,Operating-stage,1797412.817085861,,1.8,11253.313626205787,,,5200000.0,,,,,4.0,,0.843,128.27
+Bulong,Reserves Development,Active,Australia,Operating-stage,,,0.88,,54.1,476100.0,,,,,,3.0,,-30.80006,121.81901
+Cagdianao,Operating,Active,Philippines,Operating-stage,3557313.1778994277,214062.3774749383,1.32,8456.072583875442,,,15626000.0,,,,,,,10.16278,125.66694
+Cagdianao,Operating,Inactive,Philippines,Closed,1177696.7137113032,0.0,1.2,0.0,75.688,908256.0,3824829.0,,,,,,,9.48482,125.85012
+Caldag,Construction Planned,Active,Turkey,Operating-stage,3765228.641869194,,1.13,22455.119693178982,33.0,375160.0,33200000.0,,,,,4.0,,38.9,27.73333
+Camaguey,Feasibility,Inactive,Cuba,Operating-stage,,,1.15,,306.0,,,,,4.0,,7.0,,21.398,-77.817
+Carnilya Hill,Reserves Development,Inactive,Australia,Development-stage,431123.1641444475,,2.8,,0.1,3000.0,73000.0,,,,,8.0,0.0,-31.05556,121.86389
+Carrascal,Operating,Active,Philippines,Operating-stage,3921058.5644175685,143535.84483644727,1.32,16597.57926763072,74.170369,741704.0,18150803.81277565,,,,,,,9.365,125.905
+Carrascal-Cantilan,Operating,Active,Philippines,Operating-stage,3404773.119531124,209950.78995589993,0.99,24277.384388306396,63.543,768870.0,35399061.03286386,,,,,,,9.281,125.881
+Cawse,Feasibility,Inactive,Australia,Operating-stage,3139864.1941721775,,1.0,18725.563041893125,176.485,1219300.0,30300000.0,,,3.0,,2.0,,-30.37056,121.14611
+Celestial,Operating,Active,Philippines,Operating-stage,4901338.847310696,171339.15042378035,1.43,19812.578064020163,50.0,615000.0,20000000.0,,,,,,,8.91879,117.89098
+Central Musgrave,Operating,Active,Australia,Operating-stage,8281295.581977881,1358021.4230528015,0.93,35073.25225614018,,1684000.0,168422000.0,,,,,,,-26.05756,128.95332
+Cerro Matoso,Operating,Active,Colombia,Operating-stage,5148334.644564905,243355.7476472468,1.2,34669.89759388932,314.0,2707000.0,37000000.0,,,,,,,7.90667,-75.55056
+Clarion-Clipperton Zone,Reserves Development,Active,Tonga,Operating-stage,,,1.3,,756.0,,,,,,,2.0,,15.0,-130.0
+Claude Hills,Reserves Development,Active,Australia,Operating-stage,,,0.81,,33.3,,,,,,,0.0,,-26.149,129.149
+Clean TeQ Sunrise,Operating,Active,Australia,Operating-stage,2753420.706401827,727564.7549498765,0.56,16912.145167750885,184.0,928500.0,147400000.0,,,,,,,-32.76215,147.42705
+Cliffs,Satellite,Active,Australia,Construction-stage,2871831.708995015,,3.1,,,,1500000.0,,,,,7.0,0.0,-27.31306,120.55306
+Codemin,Operating,Active,Brazil,Operating-stage,2114433.066362961,61913.64462844691,1.25,7272.222422132882,10.6,134000.0,8300000.0,,,,,,,-14.15678,-48.33885
+Collurabbie Hills,Reserves Development,Inactive,Australia,Operating-stage,,,1.63,,0.573,,,,,,,7.0,,-26.82035,122.18725
+Copernicus,Satellite,Rehabilitation,Australia,Construction-stage,188424.75840391242,,1.03,,0.789,,365000.0,,,,,7.0,0.0,-17.65889,127.99111
+Cosmos,Operating,Active,Australia,Operating-stage,3081077.7240408445,84027.39847077845,2.0,13908.54818595833,10.326614,265465.0,8135600.0,,,,,,,-27.6,120.57472
+Crawford,Feasibility Started,Active,Canada,Operating-stage,,,0.25,,1150.0,,,,,13.0,,3.0,,48.83972,-81.37309
+Cumpie Hill,Reserves Development,Active,Dominican Republic,Operating-stage,1330475.7316171343,,1.5,8329.8953571599,6.2,,6160000.0,,,,,2.0,,18.8881,-70.28782
+Daling,Operating,Active,China,Operating-stage,279838.2290025499,13105.063703678048,0.74,952.1537729443749,,,2515600.0,,,,,,,42.89139,126.44833
+Decar,Prefeas/Scoping,Active,Canada,Operating-stage,,,0.12,,2233.43,2719000.0,,3.0,,3.0,,1.0,,54.894513,-125.359691
+Devolli,Reserves Development,Inactive,Albania,Development-stage,,,1.2,,90.24533,1064894.894,,,,,,8.0,2.0,40.61116,21.02129
+Duketon,Prefeas/Scoping,Active,Australia,Development-stage,,,1.9,,2.6,,,1.0,,2.0,,6.0,2.0,-27.62199,122.01041
+Dumont,Operating,Active,Canada,Operating-stage,2262087.4445494236,2340185.1595269507,0.27,75259.04599649145,2165.4,5796600.0,1028048000.0,,,,,,,48.64667,-78.4425
+Dundonald,Reserves Development,Active,Canada,Development-stage,,,3.16,,0.116,,,,,,,7.0,1.0,48.63216,-80.84359
+Dutwa,Feasibility,Active,Tanzania,Feasibility-stage,,,0.815,,116.7,1073820.0,,,,13.0,1.0,,,-2.49118,33.85552
+Eagle,Operating,Active,USA,Operating-stage,3556760.261095158,26562.24837275841,2.6,13915.313044025426,4.571,144185.0,4119000.0,,,,,,,46.74852,-87.88151
+Eagle's Nest,Operating,Active,Canada,Operating-stage,2591207.5443449873,97272.8691002993,1.68,15504.209082535624,21.57,299474.0,11131000.0,,,,,,,52.74202,-86.3038
+East Lake,Reserves Development,Inactive,Canada,Operating-stage,,,3.71,,1.153,,,,,,,2.0,,61.68611,-73.92167
+East Yellow Mountain,Operating,Active,China,Operating-stage,390486.22306564526,112724.84751515093,0.5,5347.620302042831,78.389601,352404.0,28750475.0,,,,,,,42.26456,94.6056
+Empress Refinery,Operating,Active,Zimbabwe,Operating-stage,425551.74602998747,60255.860271129546,0.54,2464.945158199692,,,13800218.00688612,,,,,,,-18.316,29.97
+Eramen Zambales,Reserves Development,Inactive,Philippines,Operating-stage,,,1.21,,108.0,,,,,,,7.0,,15.79972,120.00889
+Ertelien,Reserves Development,Inactive,Norway,Operating-stage,,,0.83,,2.7,,,,,,,2.0,,60.06924,10.04492
+Espedalen,Reserves Development,Inactive,Norway,Operating-stage,,,0.37,,8.96,,,,,,,1.0,,61.42278,9.56222
+Falcondo,Operating,Active,Dominican Republic,Operating-stage,9389181.685551608,759999.5550600471,1.31,29844.86257752999,,1121120.0,71200000.0,,,,,,,18.90102,-70.31184
+Feni,Operating,Inactive,North Macedonia,Closed,786040.1464225624,0.0,0.96,0.0,,,4080000.0,,,,,,,41.43935,21.94172
+Fenix,Operating,Active,Guatemala,Operating-stage,10792644.195987448,391612.0834147901,1.86,28750.646785176505,40.6,767340.0,30000000.0,,,,,,,15.525,-89.395
+Ferguson Lake Region,Grassroots,Inactive,Canada,Operating-stage,,,0.66,,46.0,303900.0,,3.0,,4.0,,3.0,,62.875,-97.108
+Fisher East,Prefeas/Scoping,Active,Australia,Operating-stage,,,1.9,,4.3,,,2.0,,7.0,,7.0,,-26.80566,121.55167
+Fond du Lac,Reserves Development,Inactive,Canada,Operating-stage,,,0.66,,3.4,,,,,,,4.0,,59.3868,-105.93787
+Forrestania,Operating,Active,Australia,Operating-stage,770926.7048974276,6952.696543537417,1.46,4120.644170122503,3.96,52600.0,2109000.0,,,,,,,-32.58101,119.74317
+Forrestania,Operating,Inactive,Australia,Closed,6187072.106272658,0.0,4.0,0.0,14.88,293924.0,1598000.0,,,,,,,-32.24668,119.67059
+Fortaleza de Minas,Closed,Inactive,Brazil,Closed-stage,424513.1052202104,,1.3,,,,1100000.0,,,,,,,-20.89472,-46.70722
+Fujia,Reserves Development,Active,China,Operating-stage,486410.62904508156,,1.38,2900.862054905519,,,1374100.0,,,,,6.0,,42.863,126.496
+Gag Island,Operating,Active,Indonesia,Operating-stage,12321640.884892933,575431.5439372831,1.83,22848.30812163145,,,38670000.0,,,,,,,-0.45095,129.87477
+Ghan Well,Reserves Development,Active,Australia,Operating-stage,,,0.9,,1.3,11900.0,,,,,,4.0,,-28.87083,122.13111
+Glavica,Operating,Active,Serbia,Operating-stage,1664110.922041695,66018.65268511175,1.1,4765.842508272201,3.0,33000.0,8509081.521839686,,,,,,,42.54669,21.01366
+Gogota,Reserves Development,Active,Guinea,Operating-stage,81.55379383854402,,0.96,0.510595234855402,,,1.28,,,,,1.0,,7.75457,-8.4994
+Golden Ridge,Advanced Exploration,Active,Australia,Feasibility-stage,,,2.92,,0.22,,,3.0,,16.0,6.0,,,-30.91056,121.71694
+Golden Valley,Reserves Development,Inactive,South Africa,Operating-stage,,,0.43,,20.4,,,,,,,3.0,,-26.0,27.51667
+Gordes,Operating,Active,Turkey,Operating-stage,936869.498398034,69743.62279757902,0.7,5034.745616439439,97.143,680000.0,14125869.03557154,,,,,,,39.03333,28.26667
+Goro,Operating,Active,New Caledonia,Operating-stage,24781911.80623361,2588893.3701723088,1.6,26213.82501001388,242.833,3682589.0,171287500.0,,,,,,,-22.29309,166.96852
+Grasset,Reserves Development,Active,Canada,Operating-stage,,,1.56,,3.45,,,,,,,9.0,,49.96667,-78.33333
+Grey Dam,Reserves Development,Active,Australia,Development-stage,905048.8291991713,,0.76,,,,10400000.0,,,,,7.0,0.0,-30.47429,122.15144
+Guaxilan,Operating,Active,Guatemala,Operating-stage,8465582.97980138,269521.2574090025,1.86,19787.209846268535,10.0,195000.0,20647058.82352941,,,,,,,15.11909,-89.3559
+Gulinskoye,Reserves Development,Inactive,Russia,Operating-stage,,,0.84,,3.15,,,,,,,2.0,,52.65,60.39694
+Haito,Reserves Development,Active,Togo,Operating-stage,,,0.99,,7.2,,,,,,,7.0,,7.23917,0.9025
+Hanking Group,Operating,Active,Indonesia,Operating-stage,28942899.243853103,4785855.463399433,1.37,3000.4682349365235,350.6,,350600000.0,,,,,,,-3.6,122.0
+Hart,Prefeas/Scoping,Temporarily On Hold,Canada,Feasibility-stage,,,1.37,,1.87,25733.0,,3.0,,10.0,3.0,,,48.30371,-81.08124
+Hawk Ridge,Reserves Development,Active,Canada,Operating-stage,,,2.11,,19.64,,,,,,,3.0,,59.0,-69.64167
+Hengjaya,Operating,Active,Indonesia,Operating-stage,17199724.234657638,2248644.2960324283,1.3,27017.151905482042,180.0,2340000.0,185000000.0,,,,,,,-2.94009,122.23515
+Hinatuan,Operating,Inactive,Philippines,Closed,1502728.5893914965,0.0,1.19,0.0,19.54,228000.0,5710000.0,,,,,,,9.77447,125.71593
+Hitura,Operating,Inactive,Finland,Closed,16709.134384198554,0.0,0.23,0.0,4.72,25155.0,1656000.0,,,,,,,63.84917,25.04561
+Homeville,Prefeas/Scoping,Active,Australia,Feasibility-stage,,,0.89,,17.9,159310.0,,2.0,,11.0,2.0,,,-32.01484,147.04631
+Huake Smelter,Operating,Active,Indonesia,Operating-stage,11018515.809934912,843173.7176007562,1.73,38052.32662743949,,,61467804.56436614,,,,,,,-3.16712,129.85718
+Huangshan Nan,Operating,Active,China,Operating-stage,294922.0191881367,180926.50355064712,0.32,16146.024991651768,,,85740000.0,,,,,,,42.90641,93.50872
+Hunters Road,Reserves Development,Temporarily On Hold,Zimbabwe,Operating-stage,,,0.54,,36.44,200000.0,,,,,,4.0,,-19.154,29.771
+Iisko-Tagulsk,Reserves Development,Inactive,Russia,Operating-stage,736076.0373608193,,0.735,4608.454119396869,,7500000.0,7500000.0,,,,,2.0,,54.37497,98.77318
+Inner Mongolia,Feasibility,Inactive,China,Operating-stage,172224.05808912113,,0.7,1027.1120843584024,,,1060000.0,,,3.0,,2.0,,41.48083,111.68417
+Isabela,Reserves Development,Active,Philippines,Operating-stage,4750058.482928316,,1.36,28328.460746756704,89.89,1073000.0,35694000.0,,,,,5.0,,16.60819,122.30582
+Jacare,Reserves Development,Active,Brazil,Development-stage,,,1.32,,306.6,3913000.0,,,,,,8.0,1.0,-6.16667,-51.86667
+Jacomynspan,Reserves Development,Active,South Africa,Operating-stage,,,0.32,,214.0,,,,,,,5.0,,-29.41272,21.82686
+Jaguar,Feasibility,Active,Brazil,Operating-stage,,,0.96,,80.6,,,,,4.0,,8.0,,-6.49155,-51.19545
+Jejevo,Reserves Development,Active,Solomon Islands,Operating-stage,,,1.55,,14.42,,,,,,,3.0,,-8.10355,159.17927
+Jericho,Reserves Development,Active,Australia,Operating-stage,,,0.59,,31.0,182900.0,,,,,,2.0,,-27.057475,120.447825
+Jianchaling,Reserves Development,Inactive,China,Operating-stage,1187749.5412275367,,0.55,7083.51620860461,36.0,260000.0,51273000.0,,,,,5.0,,33.25159,106.37029
+Julimar,Reserves Development,Active,Australia,Development-stage,,,0.16,,330.0,,,,,,,8.0,1.0,-31.52158,116.21078
+Junior Lake,Prefeas/Scoping,Active,Canada,Feasibility-stage,,,1.02,,31.0,,,1.0,,7.0,3.0,,,50.38169,-87.94799
+Juruogou,Reserves Development,Active,China,Operating-stage,577443.6073889673,,1.11,3443.765718711639,,,1906902.0,,,,,4.0,,44.53706,117.52738
+Kabanga,Feasibility Complete,Inactive,Tanzania,Operating-stage,,,2.63,,37.2,,,,,,,8.0,,-2.88889,30.54972
+Kabanga,Feasibility,Active,Tanzania,Development-stage,,,0.815,,58.2,1524360.0,,,,2.0,,6.0,1.0,-2.78401,30.70204
+Kalatongke,Operating,Active,China,Operating-stage,459376.4807533817,95409.66045379746,0.6,4454.659037185584,30.329311,168715.0,20038273.0,,,,,,,46.75917,89.66722
+Kalgoorlie,Feasibility Started,Active,Australia,Feasibility-stage,13358412.659096682,,0.729,,323.9,2206700.0,743484224.9657065,,,23.0,17.0,,,-30.14858,121.18658
+Kelkka,Target Outline,Active,Finland,Feasibility-stage,,,0.8,,6.7,,,2.0,,8.0,1.0,,,62.04556,28.77028
+Kenbridge,Prefeas/Scoping,Active,Canada,Operating-stage,,,0.625,,8.452,,,3.0,,4.0,,2.0,,49.48357,-93.6347
+Kepha,Reserves Development,Inactive,Philippines,Operating-stage,,,1.61,,2.5,,,,,,,3.0,,9.432,125.756
+Kevitsa,Operating,Active,Finland,Operating-stage,410962.07035835204,237893.3707201418,0.22,7628.223077914038,296.9,736490.0,140000000.0,,,,,,,67.70108,27.00677
+Kingash,Prefeas/Scoping,Active,Russia,Feasibility-stage,,,0.42,,592.88,2383827.0,,1.0,,23.0,10.0,,,54.89897,95.46243
+Kola Division,Operating,Inactive,Russia,Closed,7840144.356122704,0.0,0.546,0.0,,,797050000.0,,,,,,,69.39995,30.73034
+Koniambo,Operating,Active,New Caledonia,Operating-stage,18562051.30107355,778972.120875623,2.19,23577.22157836151,135.5,3344700.0,41800000.0,,,,,,,-20.97444,164.79285
+Kukes,Operating,Active,Albania,Operating-stage,659273.8741669108,13259.956500984123,1.2,957.2274164947,80.329,,1566641.280901759,,,,,,,42.0557,20.35614
+Kulikovskoye,Preproduction,Inactive,Russia,Operating-stage,61283.56941521462,,0.735,383.68660788837525,,,130000.0,,,,,2.0,,53.66667,60.0
+Kulymbinskaya,Reserves Development,Inactive,Russia,Operating-stage,101428.06292419454,,0.735,635.0248489020163,18.0,297000.0,297000.0,,,,,7.0,,68.08083,89.11417
+Kungurskoye,Reserves Development,Inactive,Russia,Operating-stage,229072.4750385691,,0.735,1434.186059115586,,,867000.0,,,,,0.0,,56.84333,59.88072
+Kun-Manie,Feasibility Started,Active,Russia,Feasibility-stage,,,0.75,,155.1,1157000.0,,,,18.0,4.0,,,55.35,132.41
+La Sampala,Reserves Development,Active,Indonesia,Operating-stage,,,1.62,,162.0,,,,,,,6.0,,-2.70389,121.92778
+Lac Rocher,Prefeas/Scoping,On Hold Awaiting Higher Prices,Canada,Feasibility-stage,263461.6919469202,,1.12,,,,799101.0,3.0,,7.0,2.0,,,50.58331,-76.34166
+Lainejaur,Reserves Development,Active,Sweden,Operating-stage,,,2.2,,0.46,,,,,,,0.0,,65.24303,18.98023
+Lake Johnston,Commissioning,Care And Maintenance,Australia,Operating-stage,1398654.2422268288,,4.1,8341.312415753975,,,1900000.0,,,,,9.0,,-32.19805,120.48309
+Lalindu,Reserves Development,Active,Indonesia,Development-stage,,,1.8,,32.0,,,,,,,8.0,2.0,-3.4627,122.28738
+Langmuir 2,Reserves Development,Inactive,Canada,Operating-stage,,,1.2,,0.231336,,,,,,,1.0,,48.34222,-81.00194
+Lappvattnet,Reserves Development,Active,Sweden,Operating-stage,,,0.214,,37.5,,,,,,,0.0,,64.50455,20.83526
+Larco,Operating,Active,Greece,Operating-stage,2570719.1189896115,243376.42775702034,0.81,17569.182007518008,300.0,2477230.0,42599274.8243631,,,,,,,38.65722,23.57806
+Leinster,Operating,Active,Australia,Operating-stage,2031273.1739929533,108337.6699211832,0.84,19760.99602125852,190.0,,26511904.76190476,,,,,,,-27.81424,120.70243
+Libjo,Operating,Active,Philippines,Operating-stage,871504.9122145578,19210.75322933295,1.32,2221.410267784079,30.08,466240.0,2429292.929292929,,,,,,,10.19,125.58
+Limoeiro,Exploration,Active,Brazil,Development-stage,,,0.25,,35.0,87500.0,,1.0,,5.0,,7.0,5.0,-7.95676,-35.36739
+Lockerby,Target Outline,Active,Canada,Development-stage,,,0.63,,12.22,76665.0,,0.0,,3.0,,5.0,1.0,46.43306,-81.31667
+Loma de Niquel,Operating,Active,Venezuela,Operating-stage,1722238.1771344158,13460.525754699993,1.48,6849.418792939108,6.3,83800.0,3600000.0,,,,,,,10.15,-67.11778
+Long Complex,Operating,Inactive,Australia,Closed,626441.36921413,0.0,2.7,0.0,,,162000.0,,,,,,,-31.189074,121.689737
+Longchangren,Feasibility,Inactive,China,Development-stage,241851.78638798647,,0.44,,,,10730000.0,,,3.0,,6.0,2.0,42.76167,129.19444
+Lounge Lizard,Operating,Inactive,Australia,Closed,2193667.242240726,0.0,3.5,0.0,6.674486,120382.0,601100.0,,,,,,,-32.43218,119.68787
+Lovnozersky,Reserves Development,,Russia,Operating-stage,47286.44807239833,,0.735,296.05287409195824,,,84900.0,,,,,2.0,,68.34861,30.05333
+Lubalisi,Reserves Development,Active,Tanzania,Operating-stage,,,0.82,,111.7,,,,,,,2.0,,-5.90009,30.0922
+Lucky Break,Feasibility,Active,Australia,Feasibility-stage,,,0.75,,1.1,,,,,9.0,3.0,,,-19.47241,145.69095
+Lynn Lake,Prefeas/Scoping,Active,Canada,Development-stage,,,0.72,,16.3,116800.0,,1.0,,3.0,,8.0,3.0,56.84402,-101.00211
+Maba,Operating,Active,Indonesia,Operating-stage,18998890.888363898,2189369.9978678604,1.8,26027.791413168612,130.0,,130000000.0,,,,,,,0.70133,128.26793
+Magogaphate,Feasibility Started,Active,Botswana,Development-stage,,,0.72,,2.38,,,,,3.0,,6.0,1.0,-21.657929,28.308706
+Makwa,Prefeas/Scoping,Active,Canada,Operating-stage,,,0.58,,7.9,45810.0,,1.0,,4.0,,3.0,,50.46475,-95.44883
+Makwa Mayville,Prefeas/Scoping,Active,Canada,Operating-stage,,,0.18,,31.8,57760.0,,2.0,,4.0,,3.0,,50.6298,-95.60953
+Mambare,Reserves Development,Active,Papua New Guinea,Operating-stage,,,0.94,,162.5,1530000.0,,,,,,8.0,,-8.78167,147.74556
+Mandiodo,Feasibility Complete,Active,Indonesia,Operating-stage,,,1.6,,36.5,,,,,,,1.0,,-3.54779,122.19817
+Manicani,Reserves Development,Temporarily On Hold,Philippines,Operating-stage,,,1.19,,36.6,,,,,,,5.0,,10.993,125.64
+Manitoba Division,Operating,Active,Canada,Operating-stage,747860.3732159033,86894.45407830288,0.75,12929.334980745552,19.64,147054.0,21562677.1892163,,,,,,,55.70728,-97.88904
+Mariners,Satellite,On Hold Awaiting Higher Prices,Australia,Operating-stage,,,5.0,,0.213,,,,,,,4.0,,-31.63006,121.65626
+Marriott's,Reserves Development,Active,Australia,Operating-stage,,,1.18,,0.584,9400.0,,,,,,4.0,,-28.45123,120.991434
+Maslovskoe,Reserves Development,Active,Russia,Operating-stage,1675008.4964637128,,0.37,10486.95978914072,206.8,700000.0,192270270.2702703,,,,,4.0,,69.237,88.076
+Massey-Whitesides,Target Outline,Inactive,Canada,Feasibility-stage,,,1.0,,0.385,,,3.0,,8.0,0.0,,,48.4522,-81.82025
+Mayaniquel,Prefeas/Scoping,Active,Guatemala,Feasibility-stage,18700997.89879561,,1.86,,,,69889000.0,3.0,,17.0,8.0,,,15.44143,-89.64664
+McMahon-Ken,Reserves Development,Care And Maintenance,Australia,Operating-stage,286296.3486726852,,2.4,1792.4555622535038,,,291000.0,,,,,7.0,,-31.17833,121.64944
+Mel,Reserves Development,Inactive,Canada,Operating-stage,,,0.88,,4.3,,,,,,,9.0,,55.96157,-97.80577
+Mesaba,Prefeas/Scoping,Active,USA,Operating-stage,,,0.3,,3040.2,2918410.0,,1.0,,5.0,,4.0,,47.64074,-91.89913
+Minago,Operating,Active,Canada,Operating-stage,1504728.6342639108,42073.99028980388,0.735,11453.750314859286,44.23,360400.0,25200000.0,,,,,,,54.11277,-99.16678
+Mindoro,Feasibility Complete,Active,Philippines,Development-stage,7166919.79369929,,0.95,,344.7,2926000.0,126300000.0,,,,,7.0,0.0,13.05333,121.13833
+Moa Bay,Operating,Active,Cuba,Operating-stage,5934207.379955011,418857.1264725404,1.16,26641.702282757968,187.9,1848400.0,51100000.0,,,,,,,20.60979,-74.93079
+Montcalm,Closed,Inactive,Canada,Closed-stage,224336.00752682582,,0.7275,,,,2800000.0,,,,,,,48.66432,-82.094
+Montes Claros,Preproduction,Inactive,Brazil,Operating-stage,19334458.360544875,,1.295,121049.94559724147,,,333590733.5907336,,,,,5.0,,-16.00644,-51.39837
+Mornopo,Satellite,Active,Indonesia,Operating-stage,3355198.85719722,,1.9,21006.362400120754,,,12500000.0,,,,,3.0,,0.79164,128.17987
+Morro Sem Bone,Reserves Development,Inactive,Brazil,Operating-stage,,,1.76,,47.0,,,,,,,7.0,,-13.19779,-60.29933
+Mt Edwards,Reserves Development,Active,Australia,Operating-stage,,,1.7,,8.7,141000.0,,,,,,3.0,,-31.68666,121.61343
+Mt Keith,Operating,Active,Australia,Operating-stage,1928722.6533001456,374789.46195579844,0.54,24192.82366246764,,,95333333.33333334,,,,,,,-27.44611,120.5942
+Mt Windarra,Target Outline,Temporarily On Hold,Australia,Feasibility-stage,,,1.53,,9.68,148500.0,,3.0,,4.0,0.0,,,-28.51401,122.22553
+Munali,Operating,Active,Zambia,Operating-stage,650121.0049129025,37090.804741685904,1.0,3986.1926160388834,6.01,60160.0,6010000.0,,,,,,,-15.92333,28.13444
+Murrin Murrin,Operating,Active,Australia,Operating-stage,9066501.157864628,1232530.3769478423,1.03,38686.532071230155,237.0,2353000.0,141400000.0,,,,,,,-28.76913,121.89354
+Musongati,Feasibility,Active,Burundi,Feasibility-stage,,,0.96,,184.7,2419570.0,,,,10.0,0.0,,,-3.74421,30.24679
+Mwetaung,Reserves Development,Active,Myanmar,Development-stage,7718331.365050386,,1.41,,42.0,592200.0,42000000.0,,,,,9.0,1.0,23.41568,94.01314
+Nepean,Feasibility,Active,Australia,Operating-stage,,,0.99,,0.5913,13250.0,,,,15.0,,1.0,,-31.16607,121.08486
+Nepean,Exploration,Active,Australia,Development-stage,,,2.24,,0.59,13250.0,,2.0,,21.0,,6.0,4.0,-31.20478,121.06164
+New Morning,Reserves Development,Inactive,Australia,Operating-stage,,,1.41,,6.23,87928.0,,,,,,5.0,,-32.45306,119.68
+Nickel King,Reserves Development,Active,Canada,Operating-stage,,,0.37,,44.2,,,,,,,4.0,,60.24933,-104.51322
+Nickel West,Operating,Active,Australia,Operating-stage,284869.6733885618,303127.83106203703,0.63,63420.54437906581,87226.0,,3128760.0,,,,,,,-27.23056,120.545
+Nikkel Og Olivin,Closed,Inactive,Norway,Closed-stage,48372.20460124994,,0.52,,,,600000.0,,,,,,,68.31667,16.68333
+Nisk,Reserves Development,Active,Canada,Operating-stage,,,0.97,,3.091,,,,,,,2.0,,51.70532,-75.60596
+Niwest,Operating,Active,Australia,Operating-stage,4265942.460606204,479990.97309336055,0.91,19110.7240395585,85.2,878000.0,64900000.0,,,,,,,-28.67722,121.71611
+No. 20,Preproduction,Temporarily On Hold,China,Operating-stage,201301.61644572963,,0.655,1260.317163532148,,,1099000.0,,,,,3.0,,42.28194,94.77833
+Nonoc,Feasibility,Active,Philippines,Operating-stage,,,1.32,,314.516939,2987911.0,,,,2.0,,4.0,,9.83278,125.61056
+North Kambalda,Operating,Active,Australia,Operating-stage,1100669.8996996079,13748.225111494405,2.4,423.6492364521597,,,675000.0,,,,,,,-31.17766,121.69289
+Norton,Reserves Development,Active,Canada,Development-stage,214776.7256210872,,0.67,,2.26,,2260000.0,,,,,8.0,1.0,51.90281,-87.42056
+Norwest,Target Outline,Active,Brazil,Development-stage,,,1.79,,40.3,,,1.0,,2.0,,9.0,1.0,-13.75285,-60.34082
+Nova-Bollinger,Operating,Active,Australia,Operating-stage,3360544.9124127342,38071.10715281594,2.0,24524.30170775556,11.6,234000.0,9500000.0,,,,,,,-31.8139,123.17778
+Ntaka Hill,Prefeas/Scoping,Temporarily On Hold,Tanzania,Feasibility-stage,,,0.63,,56.2,356380.0,,1.0,,15.0,8.0,,,-10.10449,38.54364
+Nunavik,Operating,Active,Canada,Operating-stage,1311027.6950737403,5969.045060903691,0.89,13191.47323084569,27.15,241970.0,11314328.0,,,,,,,61.420856,-74.1375
+Oktyabrsky,Satellite,Active,Russia,Operating-stage,41003.568129875115,,0.735,256.71676955497026,,,74900.0,,,,,2.0,,69.52435,88.34008
+Old Nick,Reserves Development,Active,Canada,Operating-stage,,,0.1914,,17.24,,,,,,,2.0,,49.04169,-119.08467
+Onca Puma,Operating,Active,Brazil,Operating-stage,19660647.015872236,1824797.4324372371,1.63,3800.1590191936248,225.478,3501942.0,113300000.0,,,,,,,-6.57399,-51.09138
+Ontario Division,Operating,Active,Canada,Operating-stage,4410839.962011327,500133.38851777196,1.38,52122.38579974984,58.1,801780.0,58100000.0,,,,,,,46.49222,-81.06667
+Pacific Express,Reserves Development,Active,Australia,Operating-stage,,,0.99,,0.697,,,,,,,8.0,,-31.57099,152.79006
+Palawan,Operating,Active,Philippines,Operating-stage,1269270.1769171099,26128.67197883771,1.3,3021.3547342186957,,,3354929.577464789,,,,,,,9.22227,118.25453
+Pardoo-Highway,Reserves Development,Active,Australia,Operating-stage,,,0.3,,44.7,151700.0,,,,,,5.0,,-20.18773,119.6572
+Phoenix,Operating,Active,Botswana,Operating-stage,36131.09427943844,7880.604170739503,0.15,1437.5323392588255,116.756,241500.0,10800000.0,,,,,,,-21.2125,27.77139
+Pinares de Mayari,Feasibility,Inactive,Cuba,Feasibility-stage,21332361.9983554,,1.14,,200.0,2000000.0,385964912.2807018,,,19.0,6.0,,,20.56505,-75.70294
+Polar Division,Operating,Active,Russia,Operating-stage,11359391.402260853,4683403.024111302,1.12,205381.09091716676,,,663128000.0,,,,,,,69.28199,88.16999
+Pomalaa,Operating,Active,Indonesia,Operating-stage,34586808.49514523,134572.5771219573,1.86,22283.442473028572,,,179990000.0,,,,,,,-4.23359,121.60422
+Premiere Ridge,Feasibility,Inactive,Canada,Feasibility-stage,136295.42543121392,,0.7275,,,,1150000.0,,,8.0,0.0,,,46.719826,-81.166357
+Project 81,Target Outline,Active,Canada,Development-stage,,,0.25,,1150.0,,,1.0,,9.0,,2.0,0.0,48.81578,-81.21795
+PT Central Omega Mines,Operating,Active,Indonesia,Operating-stage,6388464.370700685,364738.06314281287,1.7,16460.58412691387,27.0,460000.0,27000000.0,,,,,,,-1.94036,121.29217
+PT Yiwan,Operating,Active,Indonesia,Operating-stage,14448186.472081142,805586.9069894865,1.73,36356.038467114086,,,58727706.43200795,,,,,,,-3.195,116.0
+Pulot,Satellite,Temporarily On Hold,Philippines,Operating-stage,,,1.51,,9.7,,,,,,,6.0,,9.07643,117.96385
+Punta Gorda,Operating,Active,Cuba,Operating-stage,4975172.7396621555,336351.339419643,1.15,21393.86363720487,,,40014219.51374341,,,,,,,20.63556,-74.88194
+Pyke Hill,Reserves Development,On Hold Awaiting Higher Prices,Australia,Operating-stage,1560922.6939445536,,0.99,9772.686860939968,10.5,103300.0,10500000.0,,,,,0.0,,-29.04667,122.15
+Quicksilver,Reserves Development,Active,Australia,Operating-stage,,,0.64,,26.3,,,,,,,1.0,,-32.77783,118.67075
+Radio Hill,Feasibility,Active,Australia,Feasibility-stage,,,0.52,,1.15,,,,,32.0,9.0,,,-20.98235,116.86815
+Raglan,Operating,Active,Canada,Operating-stage,7727619.340770748,318613.3382787971,2.2,58609.0390788407,,1943360.0,29900000.0,,,,,,,61.684206,-73.676764
+Raglan,Reserves Development,Active,Canada,Development-stage,,,0.6,,8.0,,,,,,,9.0,1.0,61.39782,-74.97753
+Ramu,Operating,Active,Papua New Guinea,Operating-stage,3791232.2692288,319514.95060502226,0.9,31877.702426693646,136.0,1284000.0,56000000.0,,,,,,,-5.57,145.195
+Rana,Reserves Development,Inactive,Norway,Operating-stage,,,0.36,,9.15,,,,,,,7.0,,68.23472,16.91583
+Ranger RKEF Plant,Operating,Active,Indonesia,Operating-stage,10659219.831521707,731865.3433318192,1.8,33028.993326559255,,,51278512.80325195,,,,,,,-2.85174,122.16555
+Rautavaara,Reserves Development,Inactive,Finland,Operating-stage,,,0.191,,34.3,100000.0,,,,,,5.0,,63.5,28.31
+Rio Negro,Target Outline,Inactive,Guatemala,Development-stage,,,1.5,,30.0,,,1.0,,3.0,,4.0,2.0,15.24778,-90.71889
+Rio Tuba,Operating,Active,Philippines,Operating-stage,8067755.376586475,447117.9290820864,1.28,56655.68631196547,61.363,811500.0,60546875.0,,,,,,,8.59975,117.46561
+Riverina,Reserves Development,Inactive,Australia,Operating-stage,,,1.01,,2.2,,,,,,,6.0,,-29.745,120.56389
+River's Option,Target Outline,Inactive,Canada,Feasibility-stage,,,1.4,,0.019,,,3.0,,11.0,0.0,,,46.82953,-81.31251
+Rzanovo,Closed,Care And Maintenance,North Macedonia,Closed-stage,,,0.96,,2.0,22000.0,,,,,,,,41.17,21.986
+Sakharevskoye,Reserves Development,,Russia,Operating-stage,364388.1316573412,,0.735,2281.3757019133045,,,2394557.823129252,,,,,0.0,,57.48167,61.62778
+Samapleu,Prefeas/Scoping,Active,Cote d'Ivoire,Development-stage,,,0.233,,40.639,95670.0,,1.0,,4.0,,9.0,3.0,7.76179,-7.90051
+San Felipe,Reserves Development,Active,Cuba,Operating-stage,,,1.3,,250.0,,,,,,,6.0,,21.54611,-77.96778
+Sangaji,Prefeas/Scoping,Active,Indonesia,Feasibility-stage,15272792.48323808,,1.7,,111.2,,67500000.0,0.0,,12.0,6.0,,,0.75,128.155
+Ipora,Exploration,Active,Brazil,Development-stage,,,1.295,,62.7,624700.0,,2.0,,4.0,,6.0,1.0,-15.72785,-51.14599
+Ipora,Exploration,Active,Brazil,Development-stage,,,1.295,,62.7,624700.0,,0.0,,5.0,,7.0,4.0,-15.72785,-51.14599
+Santa Rita,Operating,Active,Brazil,Operating-stage,976668.4222892568,872568.0476389318,0.31,1456.9813062017388,226.88,1172723.0,184600000.0,,,,,,,-14.18902,-39.71144
+Santai,Reserves Development,,China,Operating-stage,23237.13783536716,,0.655,145.48399641475788,,31852.0,31852.0,,,,,3.0,,24.43361,98.58861
+Savannah,Operating,Active,Australia,Operating-stage,1156119.3916646254,85048.2143831864,1.23,2889.440001910239,13.456,209800.0,8021000.0,,,,,,,-17.35093,128.02609
+Scotia,Prefeas/Scoping,Active,Australia,Feasibility-stage,1202298.073360175,,2.0,,1.05,,820000.0,1.0,,6.0,1.0,,,-30.0563,121.22948
+Sechol,Operating,Active,Guatemala,Operating-stage,8132822.731929673,253396.05397427577,1.86,18603.359684525978,119.0,1630264.0,19411764.70588235,,,,,,,15.45,-89.64
+Segalla,Reserves Development,Inactive,South Africa,Development-stage,,,0.72,,1.5,,,,,,,6.0,0.0,-25.66275,31.09907
+Selebi-Phikwe,Operating,Active,Botswana,Operating-stage,222382.71108311226,17624.520412471345,0.325,24471.87405773553,,,49000000.0,,,,,,,-21.94892,27.85471
+Selkirk,Feasibility,Active,Botswana,Feasibility-stage,,,0.23,,135.3,315200.0,,,,15.0,1.0,,,-21.31417,27.72861
+Zimplats,Operating,Active,Zimbabwe,Operating-stage,88305.7155711094,219159.05803024498,0.1,5484.608677901612,1003.4,1204080.0,250900000.0,,,,,,,-18.03208,30.43344
+Shakespeare,Reserves Development,Active,Canada,Operating-stage,,,0.33,,11.83,39000.0,,,,,,2.0,,46.33417,-81.85944
+Shangani,Operating,Active,Zimbabwe,Operating-stage,714704.6244438307,130134.9882375941,0.78,811.7829680520425,12.03,68000.0,17286282.05128205,,,,,,,-19.68823,29.22665
+Shebandowan,Reserves Development,Inactive,Canada,Operating-stage,133152.94676090422,,0.07,833.6492629352153,84.22,84154.0,40877000.0,,,,,3.0,,48.6029,-90.28384
+Shengligou,Reserves Development,Inactive,China,Operating-stage,24507.33643823375,,0.53,153.43650632775652,,,49300.0,,,,,9.0,,31.31181,101.70316
+Sherlock Bay,Feasibility Started,Active,Australia,Development-stage,,,0.4,,24.6,99200.0,,,,5.0,,6.0,0.0,-20.81389,117.54111
+Shevchenko,Operating,Active,Kazakhstan,Operating-stage,4379486.769816664,735223.4724685167,0.79,14840.407384701404,169.919,1305415.0,104415000.0,,,,,,,51.93812,60.87087
+Shongwa,Feasibility,Inactive,Zambia,Feasibility-stage,,,0.995,,8.0,,,,,7.0,0.0,,,-13.865039,25.6125
+Sinclair,Reserves Development,Active,Australia,Operating-stage,355693.08930027264,,1.97,2226.937435029308,0.25,,610000.0,,,,,2.0,,-28.37411,120.86445
+Skroska,Reserves Development,Active,Albania,Operating-stage,,,1.2,,90.24533,1064894.894,,,,,,7.0,,41.09806,20.50133
+SMSP Operation,Operating,Active,New Caledonia,Operating-stage,48058076.715737976,3427235.929776509,2.27,42229.626483873966,,,161745833.3333333,,,,,,,-21.5387,166.07693
+Sorowako,Operating,Active,Indonesia,Operating-stage,21416245.587472737,1465046.10744898,1.73,68500.95278745818,321.282,5357361.0,107600000.0,,,,,,,-2.56798,121.37506
+South Dinagat,Reserves Development,Inactive,Philippines,Operating-stage,246666.30053279403,,1.65,1471.07170097055,,,280000.0,,,,,4.0,,9.84009,125.61997
+South Kambalda,Operating,Active,Australia,Operating-stage,4329420.970026522,49705.48692394131,3.72,1875.5568991035734,,,1627953.0,,,,,,,-31.70085,121.62417
+Spargoville,Reserves Development,Active,Australia,Operating-stage,,,1.9,,8.382,141000.0,,,,,,2.0,,-31.29587,121.45081
+Stormi,Reserves Development,Inactive,Finland,Operating-stage,,,0.44,,1.6,,,,,,,2.0,,61.33408,23.02725
+Subayin,Reserves Development,Inactive,Indonesia,Operating-stage,4637399.187373736,,1.73,29034.013204622435,,200000000.0,36855491.32947977,,,,,7.0,,0.73472,127.56139
+Sudbury Operations,Operating,Active,Canada,Operating-stage,7142346.477932021,336164.3236616592,2.15,46677.52066299244,,,28200000.0,,,,,,,46.63706,-81.36921
+Summervale,Reserves Development,Inactive,Australia,Operating-stage,,,0.83,,16.0,,,,,,,4.0,,-31.431066,147.034093
+Suyeke North,Reserves Development,On Hold Awaiting Financing,China,Operating-stage,,,0.21,,26566.0,226600.0,,,,,,4.0,,45.15417,83.525
+Ta Khoa,Operating,Inactive,Vietnam,Closed,677891.7886757666,0.0,2.2,0.0,1.947593,32172.0,387593.0,,,,,,,21.19132,104.32582
+Taganito,Operating,Active,Philippines,Operating-stage,9719799.723458318,914532.3501122743,1.17,56929.66306368304,112.465,813610.0,106324786.3247863,,,,,,,9.53,125.81704
+Tagaung Taung,Operating,Active,Myanmar,Operating-stage,606473.5422229595,616806.041707395,1.5,14375.323392588252,21294.0,34.328762,693441.0,,,,,,,23.63433,96.16296
+Tamarack,Prefeas/Scoping,Active,USA,Feasibility-stage,1067348.0645489693,,1.4,,11.0,,4380000.0,1.0,,11.0,4.0,,,46.67313,-93.12113
+Tapunopaka,Operating,Active,Indonesia,Operating-stage,8411422.540963218,199652.55329135555,1.73,19787.209846268535,,,25550000.0,,,,,,,-3.4627,122.28738
+Tavai,Reserves Development,Inactive,Malaysia,Operating-stage,,,0.75,,270.0,,,,,,,5.0,,5.58444,117.33278
+Terrafame,Operating,Active,Finland,Operating-stage,424185.7200717496,154213.27286297258,0.23,24302.75260605802,1525.0,3828500.0,128200000.0,,,,,,,63.972,28.079
+Thabazimbi Smelter,Operating,Active,South Africa,Operating-stage,208339.71463520624,401215.601123531,0.15,2941.8676519302667,544.22,754621.0,270740000.0,,,,,,,-24.83269,27.34336
+Tiebaghi,Operating,Active,New Caledonia,Operating-stage,43740158.73241794,3335275.6545282,2.145,41096.51275763465,46200.0,,166578671.3286713,,,,,,,-20.46887,164.21705
+Timah Nickel,Operating,Active,Indonesia,Operating-stage,2465471.8170323973,74948.77489784501,1.73,3382.429033550177,,,5463804.850165878,,,,,,,-5.25955,121.82351
+Tochilnogorskoye,Reserves Development,,Russia,Development-stage,205108.50154976785,,0.735,,,,1551020.408163265,,,,,8.0,1.0,57.49278,61.18833
+Toronto,Satellite,Temporarily On Hold,Philippines,Operating-stage,,,1.55,,44.9,,,,,,,2.0,,9.22227,118.25401
+Trident - Enterprise,Operating,Active,Zambia,Operating-stage,3360916.351315419,93282.5734558442,0.99,43240.97276490547,47.0,454340.0,34700000.0,,,,,,,-12.1924,25.21357
+Trojan,Operating,Inactive,Zimbabwe,Closed,347546.7311515466,0.0,0.94,0.0,-1.732921e-05,105200.0,2450000.0,,,,,,,-17.32921,31.28224
+Tubay,Operating,Active,Philippines,Operating-stage,5435629.334919795,293622.4936775708,1.32,17690.10384546743,7.530315,100906.0,30000000.0,,,,,,,9.20148,125.53631
+Tuli,Reserves Development,Inactive,Botswana,Operating-stage,,,0.42,,5.0,,,,,,,5.0,,-23.07892,27.83476
+Turnagain,Prefeas/Scoping,Active,Canada,Development-stage,,,0.22,,2215.42,4807461.0,,0.0,,4.0,,4.0,2.0,58.47856,-128.86282
+Ufaleynickel,Closed,Inactive,Russia,Closed-stage,437693.11143613514,,0.735,,,,3770000.0,,,,,,,56.04578,60.2605
+USSU,Target Outline,Inactive,Indonesia,Feasibility-stage,,,1.2,,35.0,,,3.0,,11.0,5.0,,,-2.57274,121.06934
+Valozoro,Reserves Development,Active,Madagascar,Operating-stage,,,1.66,,11.5,,,,,,,2.0,,-20.83,47.24
+Venus,Reserves Development,Active,Australia,Operating-stage,1495476.0476398293,,2.7,9362.935895747401,7.4,193200.0,2100000.0,,,,,1.0,,-27.7889,120.6972
+Vermelho,Operating,Active,Brazil,Operating-stage,7073727.827138862,1120215.2978506861,0.91,28617.040838351277,148.8,1559610.0,141300000.0,,,,,,,-6.48876,-49.89832
+Victoria,Construction Planned,Active,Canada,Operating-stage,,,2.71,,13.56,366964.0,,,,,,0.0,,46.41667,-81.38333
+Vila Oito,Feasibility Complete,Active,Brazil,Operating-stage,,,1.36,,10.4,,,,,,,9.0,,-7.87343,-49.34339
+Voisey's Bay,Operating,Active,Canada,Operating-stage,13427505.627123663,424424.5589097777,2.1,30441.861301951598,51.9,876790.0,28900000.0,,,,,,,56.33024,-62.09573
+Voronezh,Reserves Development,Active,Russia,Operating-stage,608623.5743129374,,0.735,3810.4946715302494,,,5510000.0,,,,,3.0,,51.12167,41.41333
+Vulcain,Reserves Development,Active,Canada,Development-stage,,,0.64,,0.605,,,,,,,7.0,0.0,46.81383,-76.70302
+Wannaway,Satellite,Care And Maintenance,Australia,Operating-stage,674502.140241773,,1.22,4022.6046631036406,,,4500000.0,,,,,5.0,,-31.60417,121.52508
+Waterloo,Grassroots,Inactive,Australia,Development-stage,,,0.99,,1.069,18500.0,,0.0,,7.0,,1.0,0.0,-16.35,129.33
+Weda Bay,Operating,Active,Indonesia,Operating-stage,26556254.075325668,3105936.4990712265,1.497,68091.365999713,629.0,9445000.0,233800935.2037408,,,,,,,0.50983,127.96233
+Weidabe Industrial Park Smelter,Operating,Active,Indonesia,Operating-stage,9259412.840055121,637064.5866316825,1.73,28750.646785176505,,,46442341.22640996,,,,,,,0.47924,127.98524
+West Graham,Reserves Development,Active,Canada,Operating-stage,,,0.45,,10.55,,,,,,,7.0,,46.43266,-81.30323
+West Musgrave,Operating,Active,Australia,Operating-stage,1240440.0450103595,563145.3797610995,0.33,28140.1183446207,340.0,1100000.0,220000000.0,,,,,,,-26.08169,127.78308
+Windarra,Construction Planned,Care And Maintenance,Australia,Operating-stage,560530.4669807121,,1.7,3088.6624426926783,,,1788000.0,,,,,7.0,,-28.6103,122.24268
+Wowo Gap,Feasibility Started,Active,Papua New Guinea,Development-stage,,,1.06,,125.0,1325000.0,,,,9.0,,9.0,4.0,-9.54682,148.91961
+Xiari Hamu,Reserves Development,Active,China,Operating-stage,2548090.6257165875,,0.655,15953.187095702091,,,67175572.51908396,,,,,8.0,,36.49306,93.36111
+Xiarihamu,Reserves Development,Active,China,Operating-stage,,,0.68,,157.0,1090000.0,,,,,,3.0,,36.1019,94.28569
+Yakabindie,Reserves Development,Active,Australia,Development-stage,2885241.6014053714,,0.57,,440.0,2684000.0,150000000.0,,,,,6.0,0.0,-27.4555,120.5775
+Yangliuping,Exploration,Inactive,China,Feasibility-stage,,,0.45,,90.0,400000.0,,0.0,,73.0,29.0,,,30.69861,101.90972
+Yarawindah Brook,Reserves Development,Active,Australia,Operating-stage,,,0.99,,2.7,,,,,,,4.0,,-31.09306,116.26111
+Yasinski,Exploration,Inactive,Canada,Development-stage,,,0.55,,0.357,1963.5,,2.0,,4.0,,4.0,2.0,53.32967,-77.28789
+Yerilla,Feasibility,Active,Australia,Development-stage,,,0.73,,140.0,1031100.0,,,,7.0,,5.0,0.0,-29.715142,122.060489
+Yerilla,Grassroots,Inactive,Australia,Development-stage,,,0.74,,140.0,1031100.0,,0.0,,2.0,,9.0,1.0,-29.5375,121.9281
+Young,Prefeas/Scoping,Active,Australia,Feasibility-stage,,,0.67,,93.3,589070.0,,0.0,,28.0,17.0,,,-34.17786,148.05229
+Yuzhuralnickel,Closed,Care And Maintenance,Russia,Closed-stage,,,0.735,,73.5,632100.0,,,,,,,,50.82927,60.97751
+Zanzui,Reserves Development,Inactive,Tanzania,Operating-stage,,,0.81,,27.0,219510.0,,,,,,4.0,,-2.93056,33.82611
+Zebediela,Prefeas/Scoping,Active,South Africa,Feasibility-stage,,,0.25,,1120.0,,,1.0,,5.0,0.0,,,-24.1218,29.01955
+Zhou'an,Feasibility,,China,Operating-stage,95375.44715135434,,0.655,568.8013359292115,,,324300.0,,,2.0,,6.0,,32.48917,112.74361
+Doniambo Smelter,Operating,Active,New Caledonia,Operating-stage,23729872.29688873,3294099.411879704,2.1,40589.14840260213,1051.4,19491000.0,69400000.0,,,,,,,-22.25374,166.44314
+Mogalakwena,Operating,Active,South Africa,Operating-stage,1275986.5537371533,2259205.368567264,0.19,22011.156935827785,3493.9,6638410.0,1256100000.0,,,,,,,-23.96269,28.89347
+Jinchuan,Operating,Active,China,Operating-stage,4617158.015690868,1683473.6767293331,0.96,91325.58390585479,432.0,4536000.0,230416666.6666667,,,,,,,38.4670000003,102.167
+Honeymoon Well,Preproduction,Active,Australia,Operating-stage,,,0.68,,512.3119,4007000.0,,,,,,6.0,,-26.92306,120.37889
+Maturi,Feasibility,Active,USA,Feasibility-stage,,,0.18,,1644.0,2910300.0,,,,18.0,1.0,,,47.8010000001,-91.7559999997
+Turfspruit,Operating,Active,South Africa,Operating-stage,410645.94787197286,358985.9435244655,0.34,11230.509998644975,852.0,2675800.0,124700000.0,,,,,,,-24.088,28.968
+Weld Range,Exploration,Active,Australia,Development-stage,,,0.64,,385.3,2465920.0,,3.0,,8.0,,7.0,0.0,-26.8199999999,117.75
+Nkamouna - Mada,Operating,Active,Cameroon,Operating-stage,2316003.7934978055,248884.82854192413,0.66,34694.420204382564,322.879,1976435.0,68132000.0,,,,,,,3.266,13.813
+Librazhd-Pogradec area,Operating,Active,Albania,Operating-stage,1156910.3589916315,31498.253561083286,1.2,2273.8379178041064,140.7679,1266911.1,3721465.021506034,,,,,,,41.036,20.56
+Canegrass,Feasibility,Active,Australia,Operating-stage,359360.6190787878,,0.66,2249.8992512791738,180.0,1194800.0,2045454.545454545,,,10.0,,1.0,,-30.28594,120.9766
+Nickel Shaw,Prefeas/Scoping,Active,Canada,Operating-stage,,,0.27,,431.5,1168010.0,,3.0,,5.0,,4.0,,61.46667,-139.53333
+Rustenburg Smelter,Operating,Inactive,South Africa,Closed,112141.7242258382,0.0,0.16,0.0,569.2,910720.0,181300000.0,,,,,,,-25.68424,27.32739
+Northmet,Operating,Active,USA,Operating-stage,39287.821112252146,194231.95157928343,0.083,8086.542211960087,1252.9,871251.0,290399000.0,,,,,,,47.6000000003,-91.9670000002
+Santa Fe,Exploration,Active,Brazil,Operating-stage,,,1.295,,77.3,850500.0,,1.0,,3.0,,7.0,,-15.743,-51.154
+Nkomati,Operating,Inactive,South Africa,Closed,106888.50885765496,0.0,0.3,0.0,222.09,800490.0,6790000.0,,,,,,,-25.74111,30.62
+Spruce Road,Feasibility,Active,USA,Feasibility-stage,,,0.16,,436.0,696800.0,,,,14.0,4.0,,,47.829,-91.69
+Wiluna,Exploration,Active,Australia,Feasibility-stage,,,0.77,,80.5,619850.0,,3.0,,33.0,7.0,,,-26.5709,120.172
+Kalpini,Feasibility,Active,Australia,Operating-stage,,,0.73,,75.0,549700.0,,,,3.0,,4.0,,-30.469,122.033
+Cajalbana,Exploration,Active,Cuba,Feasibility-stage,,,1.15,,51.360683,534150.0,,1.0,,8.0,2.0,,,22.6,-83.6
+Unki,Operating,Active,Zimbabwe,Operating-stage,107040.46159253172,95169.11858946158,0.22,3893.175817616254,-1.9623e-05,492580.0,53500000.0,,,,,,,-19.623,30.095
+Birch Lake,Feasibility,Active,USA,Operating-stage,,,0.15,,307.0,470140.0,,,,3.0,,1.0,,47.726,-91.791
+Sconi,Operating,Active,Australia,Operating-stage,1598194.5568007769,278352.0148303519,0.58,9328.739274531386,75.72,457602.0,57300000.0,,,,,,,-18.975,144.928
+Impala,Operating,Inactive,South Africa,Closed,30575.360302659814,0.0,0.1,0.0,440.7,440700.0,95400000.0,,,,,,,-25.51863,27.23928
+Sakatti,Feasibility,Active,Finland,Operating-stage,,,0.96,,44.4,425920.0,,,,6.0,,6.0,,67.55222,26.78167
+Mt Goode,Exploration,Active,Australia,Operating-stage,,,0.62,,52.94,326973.0,,3.0,,15.0,,2.0,,-27.623,120.577
+Spotted Quoll - Beautiful Sunday,Operating,Inactive,Australia,Closed,7420241.535470435,0.0,4.0,0.0,14.88,293924.0,1598000.0,,,,,,,-32.478,119.677
+Bell Creek-Neck-Minnamoolka,Feasibility,Active,Australia,Operating-stage,,,0.7,,40.1,284140.0,,,,17.0,,2.0,,-18.14,144.79
+Maturi SW,Feasibility,Active,USA,Operating-stage,,,0.17,,122.0,202220.0,,,,3.0,,1.0,,47.784,-91.793
+Kambalda,Operating,Inactive,Australia,Closed,2978688.999997323,0.0,2.8,0.0,4.52,172700.0,2303000.0,,,,,,,-31.18824,121.66786
+Mimosa,Operating,Active,Zimbabwe,Operating-stage,32277.904423517703,24958.57672512568,0.14,3331.6925980469246,112.4,157360.0,31600000.0,,,,,,,-20.328,29.825
+Mt Thirsty South,Operating,Active,Australia,Operating-stage,671372.0814643342,56008.01105169258,0.54,7864.147503004162,26.9,139880.0,18800000.0,,,,,,,-32.168,121.617
+Browns,Reserves Development,Active,Australia,Operating-stage,,,0.11,,84.0,93000.0,,,,,,3.0,,-12.994,131.0
+Nindibillup,Exploration,Active,Australia,Operating-stage,,,0.57,,16.01,91268.0,,0.0,,3.0,,2.0,,-33.595,120.346
+Carlingup,Feasibility,Active,Australia,Development-stage,,,0.46,,10.39,47776.0,,,,6.0,,7.0,2.0,-33.5929,120.28
+Kylylahti,Operating,Inactive,Finland,Closed,10129.373441471267,0.0,0.25,0.0,6.886,19281.0,503000.0,,,,,,,62.858,29.338
+Foungouesso-Moyango,Operating,Active,Cote d'Ivoire,Operating-stage,1115549.7761098708,937990.2124754951,2.0,1.6912145167750887,7595.0,46.9,938000.0,,,,,,,7.936,-7.655
+Caboclo dos Mangueiros,Target Outline,Inactive,Brazil,Operating-stage,,,0.2,,400.0,,,2.0,,9.0,,2.0,,-9.4,-43.45
+Morowali,Operating,Active,Indonesia,Operating-stage,13260947.082534155,726974.2648496295,1.62,50736.43550325266,70.0,,63000000.0,,,,,,,-3.23056,122.325
+NICO,Reserves Development,Active,Canada,Operating-stage,1813193.152930235,,0.73125,10813.54497922028,33.08,,32500000.0,,,,,3.0,,63549.0,-116.747
+Ram,Feasibility,Active,USA,Operating-stage,,,0.175,,7.0,,,,,3.0,,6.0,,45.138,-114.354
+Greenvale,,,Australia,,2407959.5342184445,,1.35,,,,8000000.0,,,,,,,-19.06329,144.74881
+Pakal Island,Satellite,Active,Indonesia,Operating-stage,2457463.860882078,,2.01,15385.787443314715,,,7100000.0,,,,,1.0,,0.781,128.331
